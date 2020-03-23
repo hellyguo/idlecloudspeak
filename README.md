@@ -1,2 +1,4 @@
-# idlecloudspeak
-悠云闲语
+# idlecloudspeak 悠云闲语
+记录一些自己消化的东西，分享给有需要的人
+水平有限，理解不深，见谅
+
